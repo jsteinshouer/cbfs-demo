@@ -19,5 +19,6 @@ testbox/*
 modules/*
 modules/**/apidocs/**
 
-# Ignore dot directories
+# Ignore default filestorage
 .fileStorage
+.cbfs
