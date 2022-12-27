@@ -1,0 +1,15 @@
+{
+    "name":"cbfs-demo",
+    "devDependencies":{
+		"commandbox-dotenv": "*"
+    },
+    "installPaths":{
+        "coldbox":"coldbox",
+        "cbfs":"modules/cbfs/"
+    },
+    "dependencies":{
+        "coldbox":"^6.0.0",
+        "cbfs":"^1.0.0-snapshot"
+    },
+    "scripts":{}
+}

@@ -1,0 +1,8 @@
+{
+    "name":"cbfs-demo",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
